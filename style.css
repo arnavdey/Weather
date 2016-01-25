@@ -1,0 +1,57 @@
+.album-list img {
+  float: left;
+  height: 150px;
+  margin: 0 10px 10px 0;
+}
+
+
+.weather-report1{
+	text-align: left;
+	font-size: 20px;
+	padding-left: 0px;
+}
+
+.weather-report3{
+	font-size: 100px;
+	text-align: right;
+}
+
+.weather-report2{
+	text-align: center;
+}
+
+.weather-report2_1{
+	text-align: center;
+}
+
+.weather-report4{
+	text-align: right;
+}
+
+.weather-report5{
+	text-align: right;
+}
+
+.weather-report6{
+	text-align: left;
+}
+
+.weather-report7{
+	text-align: center;
+}
+
+.weather-report8{
+	text-align: right;
+}
+
+.weather-report9{
+	text-align: left;
+}
+
+.weather-report10{
+	text-align: center;
+}
+
+.weather-report11{
+	text-align: right;
+}
